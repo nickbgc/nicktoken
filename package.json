@@ -1,0 +1,16 @@
+{
+  "name": "nicktoken",
+  "version": "1.0.0",
+  "description": "ERC-20 Shitcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "0x83",
+  "license": "ISC",
+  "dependencies": {
+    "ganache": "^7.2.0",
+    "openzeppelin-solidity": "^1.12.0",
+    "truffle": "^5.5.16"
+  }
+}
